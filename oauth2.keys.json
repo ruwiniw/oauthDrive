@@ -1,0 +1,2 @@
+{"web":{"client_id":"869220936051-va5vp46u5982l7tniie0m4sn8jpo8em3.apps.googleusercontent.com","project_id":"neon-trilogy-291619","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://oauth2.googleapis.com/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","client_secret":"-6M1xjJ7yEaJn5hvad6zSFso","redirect_uris": ["http://localhost:3000/oauth2callback"]
+}}
